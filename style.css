@@ -1,0 +1,11 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+#btnChange {
+    margin-top: 20px; /* Ajuste conforme necessário */
+}
